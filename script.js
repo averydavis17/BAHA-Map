@@ -2,6 +2,6 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYXZlcnlkYXZpcyIsImEiOiJjbWg5cmp2cGswcjViMm5vb
 const map = new mapboxgl.Map({
   container: 'map', // container ID
   style: 'mapbox://styles/averydavis/cmh9rqtvv00qi01r54itfb3lj', // your Style URL goes here
-  center: [-122.27, 37.87], // starting position [lng, lat]. Note that lat must be set between -90 and 90
+  center: [139.656412, 35.720629], // starting position [lng, lat]. Note that lat must be set between -90 and 90
   zoom: 9 // starting zoom
     });
